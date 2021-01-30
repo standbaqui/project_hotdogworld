@@ -1,5 +1,6 @@
 # project_hotdogworld
 ---------------------
+#### Capstone Design (캡스톤)
 #### IoT방법론 기반 스마트 제조SW 개발자 양성과정 (in KOSTA)
 
 ### PROJECT : 우쥬라이크썸띵투드링크
@@ -19,7 +20,7 @@
 
 ---------------------
 
-### 사용 기술:
+### 사용 기술 :
 >eclipse,
 >oracle,
 >spring framework,
